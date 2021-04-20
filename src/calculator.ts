@@ -9,4 +9,6 @@ const calculator = {
   /** will divide x by y */
   divide: (x: number, y: number): number => x / y,
 };
+
 export default calculator;
+
